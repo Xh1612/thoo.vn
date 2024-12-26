@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 window.onload = function() {
     var canvas = document.getElementById('puzzleCanvas');
     var context = canvas.getContext('2d');
@@ -90,7 +90,7 @@ window.onload = function() {
         return true;
     }
 };
-=======
+
 window.onload = function() {
     var canvas = document.getElementById('puzzleCanvas');
     var context = canvas.getContext('2d');
@@ -182,4 +182,4 @@ window.onload = function() {
         return true;
     }
 };
->>>>>>> 096df9c (first commit)
+
